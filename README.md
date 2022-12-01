@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **corraobruno13@gmail.com**
 
-- ⚡ Fun fact **I take decisions to respect sintient beings in different ways.**
+- ⚡ Fact about me **I take decisions to respect sintient beings in different ways.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
