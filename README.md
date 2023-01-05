@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/plasticfaceyoda" target="blank"><img src="https://img.shields.io/twitter/follow/plasticfaceyoda?logo=twitter&style=for-the-badge" alt="plasticfaceyoda" /></a> </p>
 
-- 🔭 I’m currently working on **expand my frontier of knowledge**
+- 🔭 I’m currently working to **expand my frontier of knowledge**
 
 - 👯 I’m looking to collaborate on **projects that challenges me**
 
