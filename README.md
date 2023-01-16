@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **projects that challenges me**.
 
-- 📫 How to reach me **corraobruno13@gmail.com**.
+- 📫 How to reach me: **corraobruno13@gmail.com**.
 
 - ⚡ Fact about me **I take decisions to respect sintient beings in different ways**.
 
