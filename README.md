@@ -30,6 +30,6 @@
 <br />
 
 <div width="100%" height="500px" display='flex' alignItems="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imnotseneca&include_all_commits=true&show_icons=true&bg_color=000011&title_color=ebc634&text_color=efefef&icon_color=ff4642&line_height=34" width="35%" height="220px">
-  <img src="https://streak-stats.demolab.com/?user=imnotseneca&theme=great-gatsby" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api?username=imnotseneca&include_all_commits=true&show_icons=true&bg_color=000011&title_color=ebc634&text_color=efefef&icon_color=ff4642&line_height=34" width="50%" height="220px">
+  <img src="https://streak-stats.demolab.com/?user=imnotseneca&theme=great-gatsby" width="50%">
 </div>
