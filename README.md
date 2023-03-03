@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Bruno.</h1>
 <h3 align="center">A passionate software developer from Argentina.</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=imnotseneca&label=Profile%20views&color=0e75b6&style=flat" alt="imnotseneca" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=imnotseneca&label=Profile%20views&color=0e75b6&style=flat" alt="imnotseneca" />  </p>
 
 - 🔭 I’m currently working to **expand my frontier of knowledge**.
 
