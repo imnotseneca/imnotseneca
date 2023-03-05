@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
+ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Bruno.</h1>
 <h3 align="center">A passionate software developer from Argentina.</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=imnotseneca&label=Profile%20views&color=0e75b6&style=flat" alt="imnotseneca" />  </p>
 
-- 🔭 I’m currently working to **expand my frontier of knowledge**.
+- 🔭  I’m currently working to **expand my frontier of knowledge**.
 
 - 👯 I’m looking to collaborate on **projects that challenges me**.
 
@@ -13,7 +14,7 @@
 
 - ⚡ Fact about me **I take decisions to respect sintient beings in different ways**.
 
-<h3 align="left">🔗 Connect with me:</h3>
+<h3 align="left">🔗 Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/plasticfaceyoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plasticfaceyoda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bruno-corrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-corrao" height="30" width="40" /></a>
@@ -58,7 +59,7 @@
 </p>
 </div>
 <br>
-
+<br>
 <h3 align="left">📊 Github Stats:</h3>
 
 <br>
