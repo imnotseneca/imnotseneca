@@ -70,7 +70,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=imnotseneca&layout=compact&theme=juicyfresh" alt="imnotseneca" width="50%" />
   </a> 
 </p>
+  <br>
   <img src="https://streak-stats.demolab.com/?user=imnotseneca&theme=great-gatsby" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnotseneca&layout=compact&theme=dark" alt="imnotseneca" width="50%" />
-
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnotseneca&layout=compact&theme=dark" alt="imnotseneca" width="50%" />
+  <br>
+  <img src="https://www.codewars.com/users/imnotseneca/badges/small" alt="codewars" width="50%"/>
+<br>
 </div>
